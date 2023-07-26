@@ -20,8 +20,9 @@
 :root {
   /*
     Theme Background
+    Mementos background
   */
-  --theme-background-image: url(https://i.imgur.com/j1Z6HVc.jpg);
+  --theme-background-image: url(https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fcdn.exputer.com%2Fwp-content%2Fuploads%2F2022%2F10%2FPersona-5.jpg.webp&sp=1690412319T288da5229611148e322108223507ff64ce1907e7e13c1115d4941df682ad03d1);
 
   /*
     Main Theme Color
@@ -35,8 +36,9 @@
 
   /*
     Home Icon Image
+    Straw Hat Pirates logo
   */
-  --home-icon-image: url(https://i.imgur.com/63g6Em8.jpg);
+  --home-icon-image: url(https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fseeklogo.com%2Fimages%2FM%2Fmugiwara-logo-303FD55C54-seeklogo.com.png&sp=1690411878Td772a81abe12c6c4fb4fb74aed15910b159cea29502b7689ad1ac70edb8df59c);
 
   /*
     Change your friends icon image position
@@ -55,7 +57,7 @@
     Triple Column:  184px
     Quad Column:    242px
   */
-  --server-listing-width: 126px;
+  --server-listing-width: 62px;
 
   /*
     Font Size
