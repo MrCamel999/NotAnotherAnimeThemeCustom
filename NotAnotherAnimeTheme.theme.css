@@ -22,7 +22,7 @@
     Theme Background
     Mementos background
   */
-  --theme-background-image: url(https://www.google.com/url?sa=i&url=https%3A%2F%2Fexputer.com%2Fnews%2Fgames%2Fcumulative-sales-persona-cross-15-5-million%2F&psig=AOvVaw0HgpclejjBoo49fucR6YLH&ust=1690583713843000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCJiOg6X5r4ADFQAAAAAdAAAAABAD);
+  --theme-background-image: url(https://cdn.exputer.com/wp-content/uploads/2022/10/Persona-5.jpg.webp);
 
   /*
     Main Theme Color
@@ -38,7 +38,7 @@
     Home Icon Image
     Straw Hat Pirates logo
   */
-  --home-icon-image: url(https://www.google.com/url?sa=i&url=https%3A%2F%2Fpixy.org%2F573133%2F&psig=AOvVaw3zWvE3qQm55OG67FjXQQLo&ust=1690583665664000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCLjXw4v5r4ADFQAAAAAdAAAAABAD);
+  --home-icon-image: url(https://pixy.org/src/57/573133.png);
 
   /*
     Change your friends icon image position
